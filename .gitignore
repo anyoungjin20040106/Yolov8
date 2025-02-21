@@ -1,8 +1,7 @@
 *
-!img
-!img/**
-!img
+!detect
+!detect/**
 !main.ipynb
 !.gitignore
-!result
-!result/**
+!train
+!train/**

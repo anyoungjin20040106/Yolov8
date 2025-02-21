@@ -1,0 +1,7 @@
+path : D:\GitHub\Yolov8\train\datasets
+train: train
+val: val
+
+names:
+  0 : negative
+  1 : positive
